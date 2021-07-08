@@ -83,7 +83,7 @@ function setup() {
 
 function draw() {
   //establece el color del fondo
-  background("white");
+  background("pink");
 
   if (estado == "inicio") {
     cielo();
